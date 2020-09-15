@@ -1,0 +1,53 @@
+C:/modeltech64_10.4c/examples/HW#3/tester.v {1 {vlog -work work C:/modeltech64_10.4c/examples/HW#3/tester.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tester
+
+Top level modules:
+	tester
+
+} {} {}} C:/modeltech64_10.4c/examples/HW#3/component_library.v {1 {vlog -work work C:/modeltech64_10.4c/examples/HW#3/component_library.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module bufg
+-- Compiling module notg
+-- Compiling module and_n
+-- Compiling module or_n
+-- Compiling module nand_n
+-- Compiling module nor_n
+-- Compiling module xor_n
+-- Compiling module xnor_n
+-- Compiling module fanout_n
+-- Compiling module pin
+-- Compiling module pout
+-- Compiling module dff
+
+Top level modules:
+	bufg
+	notg
+	and_n
+	or_n
+	nand_n
+	nor_n
+	xor_n
+	xnor_n
+	fanout_n
+	pin
+	pout
+	dff
+
+} {} {}} C:/modeltech64_10.4c/examples/HW#3/c6288_net.v {1 {vlog -work work C:/modeltech64_10.4c/examples/HW#3/c6288_net.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module c6288_net
+
+Top level modules:
+	c6288_net
+
+} {} {}} C:/modeltech64_10.4c/examples/HW#3/faultcollaps.v {2 {vlog -work work C:/modeltech64_10.4c/examples/HW#3/faultcollaps.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module collapsingc6288
+** Warning: C:/modeltech64_10.4c/examples/HW#3/faultcollaps.v(13): (vlog-2597) '4294967295' is being treated as 32-bit signed integer and will overflow.
+
+
+Top level modules:
+	collapsingc6288
+
+} {} {}}
